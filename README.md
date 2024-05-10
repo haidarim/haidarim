@@ -4,38 +4,36 @@ I am Mehdi, a passionate programmer and technical explorer. With a background in
 
 - 👨‍🎓 Studing at Chalmers University of technology
 - 🌱 I’m currently learning Linux administration
-- 🤟 Love Linux and Open-source software
+- 💚 Love Linux and Open-source software
 - 🤔 Interested in security, network and hardware
 
 ---
 
-#### Key skills:
+#### Main skills:
 
 ![Java](./icons/java.svg)
 ![C](./icons/c.svg)
 ![RDBMS](./icons/db.svg)
 
-#### Coded even in:
+#### Experienced Technologies:
 
 ![NoSQL](./icons/nosql.svg)
 ![TypeScript](./icons/ts.svg)
 ![JavaScript](./icons/js.svg)
-![cSharp](./icons/cSharp.svg)
-![VHDL](./icons/vhdl.svg)
+![React](./icons/react.svg)
 ![CSS](./icons/css.svg)
 ![SCSS](./icons/scss.svg)
+![cSharp](./icons/cSharp.svg)
+![VHDL](./icons/vhdl.svg)
 
-#### used tools:
+#### Used Tools:
 
+![postgres](./icons/pg.svg)
 ![node](./icons/node.svg)
-![React](./icons/react.svg)
 ![curl](./icons/curl.svg)
 ![JUnit](./icons/junit.svg)
 ![Figma](./icons/figma.svg)
-![postgres](./icons/pg.svg)
 
----
+<!--#### contact:
 
-#### contact:
-
-You can send me a message by
+You can send me a message by-->
