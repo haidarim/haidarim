@@ -3,8 +3,8 @@
 I am Mehdi, a passionate programmer and technical explorer. With a background in Computer Engineering, I strive to continually learn and grow within my field. On this page, I share my projects, code snippets,and explorations whithin the world of technology.
 
 - 👨‍🎓 Studing at Chalmers University of technology
-- 🌱 I’m currently learning Linux administration
-- 💚 Love Linux and Open-source software
+- 🌱 I’m currently learning Linux system administration
+- 💚 Love Gnu/Linux and Open-source software
 - 🤔 Interested in security, network and hardware
 
 ---
