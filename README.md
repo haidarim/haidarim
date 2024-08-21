@@ -1,10 +1,9 @@
-### Hello and welcome! 👋
+### Hello! 👋
 
 I am Mehdi, a passionate programmer and technical explorer. With a background in Computer Engineering, I strive to continually learn and grow within my field. On this page, I share my projects, code snippets,and explorations whithin the world of technology.
 
-- 👨‍🎓 Studing at Chalmers University of technology, MSc Computer Systems and Networks
 - 🌱 I’m currently learning Linux system administration
-- 🤔 Interested in security, network and hardware
+- 🤔 Interested in security
 
 ---
 
