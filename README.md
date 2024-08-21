@@ -2,8 +2,6 @@
 
 I am Mehdi, a passionate programmer and technical explorer. With a background in Computer Engineering, I strive to continually learn and grow within my field. On this page, I share my projects, code snippets,and explorations whithin the world of technology.
 
-- 🌱 I’m currently learning Linux system administration
-- 🤔 Interested in security
 
 ---
 
